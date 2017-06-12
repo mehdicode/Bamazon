@@ -3,7 +3,7 @@
 This is a simple e-commerce app which use mysql to manage and track products this app has three parts:
 
 *Customer - with this part of app you can buy and view listed products
-![customer](https://makeagif.com/i/eCphYL)
+![customer](https://i.makeagif.com/media/6-12-2017/eCphYL.gif)
 
 *Manager - 
 
