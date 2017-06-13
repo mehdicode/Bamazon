@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 var mysql = require('mysql');
 var Table = require('cli-table2');
 var inquirer = require("inquirer");
@@ -147,4 +146,4 @@ var askLeave = function() {
 
 
 setTimeout(askId, 1000);
->>>>>>> 44a9b05... readme test
+

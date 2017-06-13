@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 var inquirer = require("inquirer");
 var mysql = require('mysql');
 var Table = require('cli-table2');
@@ -109,4 +108,4 @@ function ask() {
     });
 
 };
->>>>>>> 44a9b05... readme test
+

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 var mysql = require('mysql');
 var Table = require('cli-table2');
 var inquirer = require("inquirer");
@@ -14,9 +13,9 @@ var oCost;
 
 var connection = mysql.createConnection({
     host: 'localhost',
-    user: '',
+    user: 'root',
     password: '',
-    database: 'bamazon',
+    database: '',
     multipleStatements: true
 });
 
@@ -265,4 +264,4 @@ function ask() {
         }
     });
 };
->>>>>>> 44a9b05... readme test
+
