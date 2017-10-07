@@ -37,5 +37,8 @@ This is a simple e-commerce app which use mysql to manage and track products thi
 ### create department
 ![create dep](https://media.giphy.com/media/PNmgL52y0bA8o/giphy.gif)
 
+##For testers
+
+Import `bamazon_products.sql` and `bamazon_departments.sql` to mySQL before testing the applications.
 
 
